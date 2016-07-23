@@ -3,6 +3,8 @@
 
 target 'CycleScrollView' do
 pod 'SDWebImage', '~> 3.8.1'
+pod 'CycleScrollView', '~> 1.0.0'
+
 end
 
 target 'CycleScrollViewTests' do
